@@ -1,0 +1,114 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GbpReviewExtractor/1.0.0": {
+        "dependencies": {
+          "Google.Apis.MyBusinessBusinessInformation.v1": "1.74.0.4133",
+          "google-search-results-dotnet": "2.0.1"
+        },
+        "runtime": {
+          "GbpReviewExtractor.dll": {}
+        }
+      },
+      "google-search-results-dotnet/2.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/serpapi.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "Google.Apis/1.74.0": {
+        "dependencies": {
+          "Google.Apis.Core": "1.74.0"
+        },
+        "runtime": {
+          "lib/net6.0/Google.Apis.dll": {
+            "assemblyVersion": "1.74.0.0",
+            "fileVersion": "1.74.0.0"
+          }
+        }
+      },
+      "Google.Apis.Core/1.74.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4"
+        },
+        "runtime": {
+          "lib/net6.0/Google.Apis.Core.dll": {
+            "assemblyVersion": "1.74.0.0",
+            "fileVersion": "1.74.0.0"
+          }
+        }
+      },
+      "Google.Apis.MyBusinessBusinessInformation.v1/1.74.0.4133": {
+        "dependencies": {
+          "Google.Apis": "1.74.0"
+        },
+        "runtime": {
+          "lib/net6.0/Google.Apis.MyBusinessBusinessInformation.v1.dll": {
+            "assemblyVersion": "1.74.0.4133",
+            "fileVersion": "1.74.0.4133"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.4": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.4.30916"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GbpReviewExtractor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "google-search-results-dotnet/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0zn2eLhmyCWlo2eHb/U6txtVzNmfMBXe3LLh9SGNXGkiE55FF7mD12VypqYwvayGH9yF+EgPA6zoa2RgfchPog==",
+      "path": "google-search-results-dotnet/2.0.1",
+      "hashPath": "google-search-results-dotnet.2.0.1.nupkg.sha512"
+    },
+    "Google.Apis/1.74.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z6hSkmRD6V8/raSBqn/EsPpNop6suaLaGE9DbSY3yRE5G47l4zYqrJgapcLARk2Z3TsQUDmWz+w/tob3wuVt3g==",
+      "path": "google.apis/1.74.0",
+      "hashPath": "google.apis.1.74.0.nupkg.sha512"
+    },
+    "Google.Apis.Core/1.74.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gWOIiks6yo2TRliIyy10V18BJOO2BfUSPJFiTW6Tfap4tm3hFj7nvYU3XIfwzAxwoIy6nsBoqVDt9iBDSXrvYQ==",
+      "path": "google.apis.core/1.74.0",
+      "hashPath": "google.apis.core.1.74.0.nupkg.sha512"
+    },
+    "Google.Apis.MyBusinessBusinessInformation.v1/1.74.0.4133": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/08lTpPPRofPfK1i7cAf7ouusJdggdsNktZpW5qWaKHlfdD27C21eRX6HgNWWUiwTMkyrdx46LCJ2QhrAXVeKw==",
+      "path": "google.apis.mybusinessbusinessinformation.v1/1.74.0.4133",
+      "hashPath": "google.apis.mybusinessbusinessinformation.v1.1.74.0.4133.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
+      "path": "newtonsoft.json/13.0.4",
+      "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
+    }
+  }
+}
