@@ -19,3 +19,9 @@ C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\obj\Debug\net10.0\Gbp
 C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\obj\Debug\net10.0\GbpReviewExtractor.genruntimeconfig.cache
 C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\obj\Debug\net10.0\ref\GbpReviewExtractor.dll
 C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\bin\Debug\net10.0\serpapi.dll
+C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\bin\Debug\net10.0\DotNetEnv.dll
+C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\bin\Debug\net10.0\Superpower.dll
+C:\Users\ryang\coding\personal_projects\GbpReviewExtractor\obj\Debug\net10.0\GbpReviewExtractor.sourcelink.json
